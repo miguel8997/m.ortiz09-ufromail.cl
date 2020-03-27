@@ -1,0 +1,53 @@
+.uno{
+
+}
+.card1{
+        
+    background-color: rgb(228, 222, 222);
+        
+}
+
+.dos{
+        
+    margin-top: 30px;
+    margin-bottom: 40px;
+        
+}
+
+.tres{
+        
+    margin-top: 30px;
+    margin-bottom: 30px;
+        
+}
+
+.cuatro{
+        
+    margin-top: 30px;
+    margin-bottom: 30px;
+        
+}
+
+.table tr.uno{
+        
+    background-color: rgb(182, 159, 159);
+        
+}
+.table tr.dos{
+        
+    background-color: rgb(133, 98, 98);
+        
+}
+.table tr.tres{
+        
+    background-color: rgb(114, 199, 149);
+        
+}
+.table tr.cuatro{
+        
+    background-color: rgb(183, 194, 125);
+        
+}
+
+
+
